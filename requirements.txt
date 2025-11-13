@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-telegram-bot>=20
+instaloader
+requests
+gunicorn
